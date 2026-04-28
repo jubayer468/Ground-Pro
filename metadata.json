@@ -1,0 +1,6 @@
+{
+  "name": "GroundPro",
+  "description": "Professional sports grounds and turf management platform with AI-powered assistance, job marketplace, and curator learning hub.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
